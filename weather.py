@@ -1,6 +1,7 @@
-from bs4 import BeautifulSoup
-import urllib
 import re
+import urllib
+from bs4 import BeautifulSoup
+
 
 COLOR_RED = "\033[01;31m{0}\033[00m"
 COLOR_BLUE = "\033[1;36m{0}\033[00m"
