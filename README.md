@@ -7,7 +7,7 @@ PyWeather
 
 ### Requirements
 
-PyWeather uses [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
+PyWeather uses [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/).
 
 ### Installation and Running
 ```
