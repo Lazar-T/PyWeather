@@ -1,7 +1,7 @@
 PyWeather
 =========
 
-###Screenshot
+### Screenshot
 
 ![Screenshot](http://i.imgur.com/VyPKkX0.png)
 
